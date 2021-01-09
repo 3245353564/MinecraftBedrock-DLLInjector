@@ -10,4 +10,5 @@
 <img src="./images/selectedDLLInjectMenu.png"/>
 
 ## Example
+> Go to /samples/ for example dlls.
 <img src="./images/example.gif"/>
